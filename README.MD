@@ -1,6 +1,6 @@
 <h1 align="center">
     Original:<br><br>
-    <img alt="Ghana Flag" title="Ghana Flag" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AFlag_of_Ghana.png&psig=AOvVaw2N5e_MUfVFCDDUrYqpttwI&ust=1593017824350000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCSwfazmOoCFQAAAAAdAAAAABAD" width="220px" />
+    <img alt="Ghana Flag" title="Ghana Flag" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Flag_of_Ghana.png" width="220px" />
 </h1>
 
 <p align="center">
