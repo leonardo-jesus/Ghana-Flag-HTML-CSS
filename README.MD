@@ -1,14 +1,15 @@
+<p align="center">
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-How-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
 <h1 align="center">
     Original:<br><br>
     <img alt="Ghana Flag" title="Ghana Flag" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Flag_of_Ghana.png" width="220px" />
 </h1>
-
-<p align="center">
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
@@ -38,7 +39,7 @@ Ghana Flag, made with HTML and CSS, for practice.
 
 You can view the project layout in the format via [this link](<https://codepen.io/leonardoj02/pen/ExaGZNp>).
 
-## 🤔 How contribute
+## 🤔 How to contribute
 
 - Make a fork;
 - Create a branch with your feature: `git checkout -b my-feature`;
